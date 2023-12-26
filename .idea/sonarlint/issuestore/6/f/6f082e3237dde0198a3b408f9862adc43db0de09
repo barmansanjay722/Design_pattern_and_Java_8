@@ -1,0 +1,17 @@
+
+d
+java:S1192!"GDefine a constant instead of duplicating this literal "banana" 5 times.(ä‹¸½8ÔÕ¿Æ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ë£´­øÿÿÿÿ8æÕ¿Æ1
+o
+java:S6204#"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¾ï—ì8ëÕ¿Æ1
+o
+java:S6204'"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(æõ”·8ìÕ¿Æ1
+o
+java:S6204."RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ğ×Şª8îÕ¿Æ1
+o
+java:S62041"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¬ÆéÁ8ïÕ¿Æ1
+t
+java:S6204@"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‹Üïÿÿÿÿÿ8ñÕ¿Æ1
+}
+java:S4276L"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(¯üØ¢úÿÿÿÿ8óÕ¿Æ1
