@@ -1,0 +1,10 @@
+
+¶
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(Åüö­8õ¹¤¼Ú1
+]	java:S125"<This block of commented-out lines of code should be removed.(®óÁüÿÿÿÿ8ø¹¤¼Ú1
+V
+java:S2168"9Remove this dangerous instance of double-checked locking.(àÚ®8ù¹¤¼Ú1
+p
+java:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8ú¹¤¼Ú1
+e
+java:S1182 "HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8–Ê¥¼Ú1

@@ -1,0 +1,6 @@
+
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(‹¸Ðïøÿÿÿÿ8×…å»Ú1
+]	java:S125"<This block of commented-out lines of code should be removed.(®óÁüÿÿÿÿ8Ü…å»Ú1
+V
+java:S2168"9Remove this dangerous instance of double-checked locking.(Ãí»™8Ý…å»Ú1

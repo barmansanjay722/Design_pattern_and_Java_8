@@ -1,0 +1,13 @@
+ways to break Singleton patterns with there solution(how can we secure )
+
+
+ ways to break singletone design pattern
+ 	--> 1. Reflection API to break singleton pattern
+            solution -> 1. if object is there throw exception from inside constructor
+                      2. user enum
+
+	--> 2. Deserilization
+		solution: implement readResolve method
+
+	--> 3. Cloning
+		solution: 

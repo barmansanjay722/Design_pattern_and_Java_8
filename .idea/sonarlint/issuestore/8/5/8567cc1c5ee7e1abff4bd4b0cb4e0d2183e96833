@@ -1,0 +1,9 @@
+
+k
+java:S2095+"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(”­Q8ε»–ΌΪ1
+m
+java:S2095%"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ÿά«8ζ»–ΌΪ1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(–ξ¶σωÿÿÿÿ8…Κ¤ΊΪ1
+r
+java:S1128"PRemove this unused import 'org.example.design_patterns.singleton_design.Jalebi'.(Οÿ‚Έϋÿÿÿÿ8ω»–ΌΪ1
