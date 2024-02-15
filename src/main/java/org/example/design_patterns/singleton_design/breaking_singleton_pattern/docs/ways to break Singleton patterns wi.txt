@@ -1,3 +1,4 @@
+
 ways to break Singleton patterns with there solution(how can we secure )
 
 

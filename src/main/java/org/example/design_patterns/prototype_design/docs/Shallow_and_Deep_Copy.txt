@@ -1,0 +1,5 @@
+
+
+    If a object is there and inside one Object another object is there, and now we want to copy the Object,
+    in Shallow copy main object will be copied but inside object reference object will be copied,
+    but in Deep copy bott main and inside objects new copy will be created.

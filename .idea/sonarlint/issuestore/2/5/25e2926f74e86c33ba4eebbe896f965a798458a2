@@ -1,0 +1,5 @@
+
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¡Æ˜æÚ1
+V
+java:S1905"4Remove this unnecessary cast to "NetWorkConnection".(ÎÉˆ¥üÿÿÿÿ8©ã®åÚ1
