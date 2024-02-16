@@ -1,5 +1,5 @@
 
-“
-java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¡Æ˜æÚ1
+Ÿ
+java:S1130"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(›©Œ™üÿÿÿÿ8œÀµ…Û1
 V
-java:S1905"4Remove this unnecessary cast to "NetWorkConnection".(ÎÉˆ¥üÿÿÿÿ8©ã®åÚ1
+java:S1905"4Remove this unnecessary cast to "NetWorkConnection".(ÎÉˆ¥üÿÿÿÿ8°¿’…Û1

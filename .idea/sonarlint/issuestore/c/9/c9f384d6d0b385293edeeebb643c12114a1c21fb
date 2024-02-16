@@ -1,7 +1,7 @@
 
-
-java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "clone".(µ®İÕıÿÿÿÿ8÷ş­åÚ1
-u
-java:S2975'"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(á§«Şşÿÿÿÿ8‹ÿ­åÚ1
-O
-java:S1135*"2Complete the task associated to this TODO comment.(‡ò„8“ÿ­åÚ1
+p
+java:S2975:"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8Á¨Ä…Û1
+]	java:S125;"<This block of commented-out lines of code should be removed.(¤Ó´Ôúÿÿÿÿ8Â¨Ä…Û1
+W	java:S125D"<This block of commented-out lines of code should be removed.(û™ş8“úÄ…Û1
+e
+java:S1182:"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8Å¨Ä…Û1
