@@ -99,8 +99,6 @@ v
 Fsrc/main/java/org/example/design_patterns/adapter_design/Iphone14.java,0\f\0fd0a0a950edbc3d5c1cd75f5e034058f456d1e3
 z
 Jsrc/main/java/org/example/design_patterns/adapter_design/AppleCharger.java,c\0\c0c0226d019807a753b37bc98702d69e60aeb119
-x
-Hsrc/main/java/org/example/design_patterns/adapter_design/XYZCharger.java,3\e\3e23c80973e5deb98e848d62574c58f0a3237999
 |
 Lsrc/main/java/org/example/design_patterns/adapter_design/AndroidCharger.java,9\1\919b15631c488cfba0fb36200b74bf3de12f0342
 ‚
