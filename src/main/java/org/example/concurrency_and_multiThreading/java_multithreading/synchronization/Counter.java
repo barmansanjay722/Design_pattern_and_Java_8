@@ -17,5 +17,3 @@ public class Counter {
 // when multiple thread shared one thing and they don't (this is called race condition )
 
 
-// Locking
-
