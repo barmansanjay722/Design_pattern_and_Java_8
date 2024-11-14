@@ -27,5 +27,5 @@ public class FairLockExample {
 // synchronized diadvantage
     /* don't have fairness,
     there is no blocking,
-    there is no interruption,
+    there is no interruptiblity,
     no idea about read/write locking */
