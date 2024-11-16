@@ -1,6 +1,9 @@
 package org.example.java_8.learn;
 
+import java.util.Arrays;
+import java.util.List;
 import java.util.function.*;
+import java.util.stream.Stream;
 
 public class BiPredicate_nd_BiFunc_BiConsum {
     public static void main(String[] args) {
@@ -40,5 +43,28 @@ public class BiPredicate_nd_BiFunc_BiConsum {
         // Supplier (there is no BiSupplier ( beacause any function can only return one value)
         Supplier<Integer> supplier = () -> 1;
         System.out.println(supplier.get());
+
+        System.out.println("---------------------");
+
+        Integer value = Stream.iterate(0, x -> x + 1)
+                .limit(101)
+                .distinct()
+                .max((a, b) -> a - b).get();
+
+        System.out.println(value);
+
+
+
+        long count = Stream.iterate(0, x -> x + 1)
+                .limit(101)
+                .distinct()
+                .count();
+
+        System.out.println("------------------");
+
+        // parallerStream (paraller stream stream works divide list into chunks and multi threads (it's uses in very big list)
+        List<Integer> list = Arrays.asList(1,4,5,7,7,74,43);
+        Integer i = list.parallelStream().max((a, b) -> a - b).get();
+        System.out.println(i);
     }
 }
