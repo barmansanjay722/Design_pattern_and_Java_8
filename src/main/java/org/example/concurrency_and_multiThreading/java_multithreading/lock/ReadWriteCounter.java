@@ -74,5 +74,7 @@ public class ReadWriteCounter {
 }
 
 
-// ReadWriteLock alows multiple threads to read resources concurrently, as long as no thread is writing.
+// ReadWriteLock alows multiple threads to read resources concurrently, as long
+// as restricting write access to a single thread at a time.
+
 

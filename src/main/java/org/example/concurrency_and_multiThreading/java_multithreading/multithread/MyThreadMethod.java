@@ -32,7 +32,7 @@ public class MyThreadMethod extends Thread {
 
 
 
-//        t.join();    // join method is main Thread is waiting for the current Thread to finisss
+//        t.join();    // join method is main Thread is waiting for the current Thread to finishes
         // in this case main thread is wating for finish of 't' Thread
     }
 }

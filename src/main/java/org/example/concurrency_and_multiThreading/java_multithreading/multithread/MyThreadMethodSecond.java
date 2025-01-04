@@ -11,7 +11,7 @@ public class MyThreadMethodSecond extends Thread{
                 System.out.println("Thread intruppted successfully "+e);
             }*/
             System.out.println("Thread is running "+i);
-            Thread.yield();      // this method give hint to main Thread that you can give change to another Threads
+            Thread.yield();      // this method give hint to main Thread that you can give change to another Threads ( or get change more priority of Thread to execution )
         }
     }
 
@@ -29,4 +29,4 @@ public class MyThreadMethodSecond extends Thread{
 
 
 // DAEMON THREADS
- /* daemon thread is working on background */
+ /* daemon thread is working on background, and when JVM exit then all the daemeon threads get terminated */

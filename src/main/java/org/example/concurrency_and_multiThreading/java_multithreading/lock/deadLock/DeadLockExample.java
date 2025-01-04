@@ -49,7 +49,7 @@ class Task2 implements Runnable {
 
     @Override
     public void run() {
-      /*  synchronized (pen) {                              // this is how we can stop deadlock ( here fistly geting pen by using synchronized )
+      /*  synchronized (pen) {                              // this is how we can stop deadlock ( here firstly getting pen by using synchronized )
             paper.writeWithPenAndPaper(pen);
         }*/
         paper.writeWithPenAndPaper(pen); // thread2 locks paper and trying lock pen
