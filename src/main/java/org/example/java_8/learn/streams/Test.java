@@ -48,7 +48,7 @@ public class Test {
 
         List<Integer> filteredlist1 = list1.stream()
                 .filter(n -> n % 2 == 0)
-                .map(x -> x /2)             // map is a function meanse will take something in input and return something
+                .map(x -> x /2)             // map is a function means will take something in input and return something
                 .distinct()     // only unique value can be in result list
                 .sorted((a,b) -> (b-a))    // sorting
                 .limit(2)   // add limit in the result list
@@ -56,6 +56,4 @@ public class Test {
                 .toList();
         System.out.println(filteredlist1);
     }
-
-
 }

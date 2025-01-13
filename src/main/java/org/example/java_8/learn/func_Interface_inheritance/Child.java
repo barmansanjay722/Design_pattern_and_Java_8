@@ -13,4 +13,4 @@ public interface Child extends Parent{
 // if child interface extends Parent  interface and it's empty then it's and functional interface
 // if child inteface have same method as in parent then it's also a functional interface
 // if child have another method then it's not a functinal interface (ex -> sayData())
-// default and static method is allow offcourse
+// default, static and private method is allow offcourse

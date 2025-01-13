@@ -13,7 +13,7 @@ interface B {
 }
 
 
-public class Multiple_Inheritance implements A,B{
+public class Multiple_Inheritance implements A,B {
     public static void main(String[] args) {
         Multiple_Inheritance multipleInheritance = new Multiple_Inheritance();
         multipleInheritance.sayHello();

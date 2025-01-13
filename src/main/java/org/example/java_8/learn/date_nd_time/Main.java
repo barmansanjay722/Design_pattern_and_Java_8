@@ -34,9 +34,6 @@ public class Main {
         System.out.println(customTime);
         LocalTime parseTime = LocalTime.parse("12:30:34");
 
-
-
-
         // and so on see document for this
     }
 }
